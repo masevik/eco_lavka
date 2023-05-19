@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eco_lavka/static/css/main.7acaea2f.css",
+    "main.js": "/eco_lavka/static/js/main.365a5cb2.js",
+    "index.html": "/eco_lavka/index.html",
+    "main.7acaea2f.css.map": "/eco_lavka/static/css/main.7acaea2f.css.map",
+    "main.365a5cb2.js.map": "/eco_lavka/static/js/main.365a5cb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.365a5cb2.js"
+  ]
+}
