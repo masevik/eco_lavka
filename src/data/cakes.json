@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Торт Шварцвальд",
+    "description": "Шоколадний брауні з вишнею просоченої лікером та вершковим кремом з шаром глазурі з чорного шоколаду",
+    "img": "https://drive.google.com/file/d/14dGEybw8YU5-eO51RJNN0aajw8YmSrYO/view?usp=share_link",
+    "weight": "1700г",
+    "price": 500
+  },
+  {
+    "title": "Чізкейк Нью-Йорк /без глютену/",
+    "description": "Сир Філадельфія, жовток яєчний, вершки, ваніль, фруктоза, лимонна цедра",
+    "img": "https://drive.google.com/file/d/1kRNO-x9sq4gg0x83NDj3IysB100msWXz/view?usp=share_link",
+    "weight": "1100г",
+    "price": 480
+  },
+  {
+    "title": "Торт Ферреро",
+    "description": "Шоколадний торт з крем-сиру та чорного шоколаду, фруктози та шоколадної пасти з лісовим горіхом",
+    "img": "https://drive.google.com/file/d/1O9Iu7cDFWJk4Dhlln_dnYXnGCHvgRsk1/view?usp=share_link",
+    "weight": "1440г",
+    "price": 576
+  },
+  {
+    "title": "Торт Наполеон",
+    "description": "Листкове тісто, вершковий заварний крем",
+    "img": "https://drive.google.com/file/d/1YRYjCw7OGbXdW4VgKB647ySwEhjKH6Yq/view?usp=share_link",
+    "weight": "1080г",
+    "price": 396
+  },
+  {
+    "title": "Торт Червоний Оксамит",
+    "description": "Крем-сир, сметана, жовток яєчний, ваніль, бісквіт вершковий",
+    "img": "https://drive.google.com/file/d/1vJWOZ5tN4_e59lM6oaHBeANmYpdZW-2g/view?usp=share_link",
+    "weight": "1300г",
+    "price": 480
+  }
+]

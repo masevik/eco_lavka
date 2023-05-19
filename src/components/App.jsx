@@ -1,16 +1,10 @@
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div>
+      <img
+        src="https://bushe.com.ua/wp-content/uploads/2022/03/red-oksamit.jpeg"
+        alt="cakes illustration"
+      />
     </div>
   );
 };
